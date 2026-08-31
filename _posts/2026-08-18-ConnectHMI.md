@@ -5,6 +5,9 @@ date: 2026-08-17 09:00 +0900
 category: [(주)자이언트스텝 프로젝트]
 tags: [unreal-engine, qnx, plantuml]
 pin: false
+image:
+  path: /assets/HyundaiPleosConnect/main.png
+  alt: 현대모비스 CID/HUD Connect UnrealHMI 메인 화면
 ---
 
 Unreal Engine 기반 차량용 클러스터 3D HMI 애플리케이션과 차량 에셋 자동 캡처 파이프라인 개발에 참여했습니다. HMI 영역에서는 ADAS 주행 정보와 HUD 기능 및 성능 개선, 신규 기능 개발(CCW, Smart Glass), 다차종 대응과 QNX 엔진 안정화를 담당했습니다. 또한 Dynamic Control 차량 에셋 캡처 자동화와 SADS·SUDS 공식 설계 문서 작성을 진행했습니다.

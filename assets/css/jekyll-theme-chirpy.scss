@@ -1,0 +1,15 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Keep the project preview image on the left side of home cards. */
+@media (min-width: 768px) {
+  #post-list .post-preview {
+    flex-direction: row !important;
+  }
+}
