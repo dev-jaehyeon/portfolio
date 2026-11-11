@@ -28,7 +28,8 @@ url: 'https://dev-jaehyeon.github.io/portfolio'
 social:
   name: Jaehyeon Han
   email: dev.jaehyeonhan@gmail.com
-  links: []
+  links:
+    - https://dev-jaehyeon.github.io/
 
 # Site Verification Settings
 webmaster_verifications:
