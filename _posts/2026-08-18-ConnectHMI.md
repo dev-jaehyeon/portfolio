@@ -73,7 +73,7 @@ Unreal Engine 기반 차량용 클러스터 3D HMI 애플리케이션과 차량 
 - 빌트인 카메라와 GPU 간 경합을 유발하던 프레임 버퍼 용도 덮어쓰기 문제 수정
 - QNX 환경의 Unreal Thread 우선순위 조정
 - Scene Capture의 안티앨리어싱 처리 분리
-- 렌더링 리소스 검증과 Shader 재컴파일 처리 보완
+- Shader 재컴파일 처리 보완
 
 ## 현대오토에버 차량 에셋 캡처 자동화
 
